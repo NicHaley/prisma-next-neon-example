@@ -5,7 +5,7 @@ export default async function IndexPage() {
 
   return (
     <div>
-      <h1>Public page</h1>
+      <h1>Private page</h1>
     </div>
   );
 }
